@@ -1,0 +1,67 @@
+#Online {
+    color:white;
+    padding:2px 10px 5px 10px;
+    background-color:#3AA610;
+    border-radius: 7px;
+	margin-bottom:5px;
+}
+
+#Offline {
+    color:white;
+    padding:2px 10px 5px 10px;
+    background-color:#C62D2D;
+    border-radius: 7px;
+	margin-bottom:5px;
+}
+
+body {
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 300;
+	line-height: 20px;
+}
+
+table {
+	font-family: "Play";
+	font-size: 15px;
+	width:1000px;
+	border-collapse: collapse;
+	line-height: 1.6em;
+	margin:0 auto;
+}
+
+table th {
+	padding: 9px;
+	font-weight: normal;
+	font-size: 16px;
+	color: white;
+	text-align: left;
+	background: #404040;
+}
+
+table td {
+	padding: 9px;
+	background: #e8edff;
+	color: #669;
+}
+
+table tbody tr:hover td {
+	background: #d0dafd;
+}
+
+#RoundLeft {
+	border-radius: 5px 0 0 0;
+}
+
+#RoundRight {
+	border-radius: 0 5px 0 0;
+}
+
+#Join {
+	color:#eb4405;
+	text-decoration:none;
+}
+
+#Join:hover {
+	color:#832700;
+}
